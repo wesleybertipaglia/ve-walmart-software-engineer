@@ -4,6 +4,6 @@ To keep track of the progress, I have created this checklist of the tasks and pr
 
 - [x] Task 1: Advanced Data Structures
 - [x] Task 2: Software Architecture
-- [ ] Task 3: Relational Database Design
+- [x] Task 3: Relational Database Design
 - [ ] Task 4: Data Munging
 - [ ] Finish line
