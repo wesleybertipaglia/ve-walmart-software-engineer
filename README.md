@@ -1,6 +1,10 @@
 # ☀️ Walmart Software Engineering Job Simulation
 This repository contains my solutions and projects developed as part of the Walmart USA Advanced Software Engineering job simulation. Through this simulation, I am building practical skills and gaining experience in software engineering, specifically tailored to meet the expectations and requirements of Walmart USA. 
 
+I just completed the simulation and I am excited to share my solutions and projects with you. I hope you find them helpful and informative.
+
+> 🚀 You can view my certificate of completion [here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Walmart%20USA/oX6f9BbCL9kJDJzfg_Walmart%20USA_Y4mCGo9aASL72QCsT_1717469346235_completion_certificate.pdf).
+
 ## 📚 Table of Contents
 - [Topics](#topics)
 - [Tech Stack](#-tech-stack)
