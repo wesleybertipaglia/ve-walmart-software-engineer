@@ -1,4 +1,4 @@
-# ☀️ Virtual Experience, Software Engineer - Walmart
+# ☀️ Walmart Software Engineering Virtual Experience
 This repository contains my solutions and projects developed as part of the Walmart USA Advanced Software Engineering job simulation. Through this simulation, I am building practical skills and gaining experience in software engineering, specifically tailored to meet the expectations and requirements of Walmart USA. 
 
 I just completed the simulation and I am excited to share my solutions and projects with you. I hope you find them helpful and informative.
